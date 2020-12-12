@@ -1,3 +1,3 @@
-# ✏️ JavaScript PRACTICE 
+# ✏️ JavaScript Practise
 
-📚 Drill exercises to practice the basics of JavaScript and get more familar with the language and syntax.
+📚 Drill exercises to practise the basics of JavaScript and get more familar with the language and syntax.
